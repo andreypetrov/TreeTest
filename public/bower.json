@@ -1,0 +1,11 @@
+{
+       "name": "Babylon Test",
+    "version": "0.0.1",
+    "dependencies": {
+        "backbone": "latest",
+        "babylon": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/babylon.1.13.js",
+        "bootstrap": "latest"
+    },
+    "private": true
+
+}

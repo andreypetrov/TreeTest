@@ -1,18 +1,24 @@
 {
-  "name": "TreeTest",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "express": "~4.8.6",
-    "body-parser": "~1.6.6",
-    "cookie-parser": "~1.3.2",
-    "morgan": "~1.2.3",
-    "serve-favicon": "~2.0.1",
-    "debug": "~1.0.4",
-    "ejs": "~0.8.5",
-    "less-middleware": "1.0.x"
-  }
+    "name": "TreeTest",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "express": "~4.8.6",
+        "body-parser": "~1.6.6",
+        "cookie-parser": "~1.3.2",
+        "morgan": "~1.2.3",
+        "serve-favicon": "~2.0.1",
+        "debug": "~1.0.4",
+        "ejs": "~0.8.5",
+        "less-middleware": "1.0.x"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-contrib-jshint": "~0.10.0",
+        "grunt-contrib-nodeunit": "~0.4.1",
+        "grunt-contrib-uglify": "~0.5.0"
+    }
 }

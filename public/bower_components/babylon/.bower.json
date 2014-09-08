@@ -1,0 +1,13 @@
+{
+  "name": "babylon",
+  "_cacheHeaders": {
+    "ETag": "\"e7a9192f5b1cf6ccca200b829489a822a500823e\"",
+    "Content-Length": "473086",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:e7a9192f5",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/babylon.1.13.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/babylon.1.13.js"
+}
